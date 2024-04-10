@@ -1,0 +1,131 @@
+.barra {
+    background-color: var(--fundo-senha);
+  }
+  .barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #E71B32; 
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #E71B32;
+    position: relative;
+}
+.fraca{
+    height: 30px;
+    width: 25%;
+    background-color: #E71B32;
+    position: relative;
+    bottom: 30px;
+}
+.parametro-senha-textos {
+    display: flex;
+    justify-content: space-between;
+}
+.media{
+    height: 30px;
+    width: 50%;
+    background-color: #FAF408;
+    position: relative;
+    bottom: 30px;
+}
+.forte{
+    height: 30px;
+    width: 100%;
+    background-color: #00FF85;
+    position: relative;
+    bottom: 30px;
+}
+.forca{
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+}
+.fraca{
+    …    .barra{
+            background-color: var(--fundo-senha);
+            height: 30px;
+            width: 100%;
+        }
+        .forca{
+        height: 30px;
+        position: relative;
+        bottom: 30px;
+    }
+    .fraca{function diminuiTamanho(){ 
+        tamanhoSenha = tamanhoSenha - 1;
+        numeroSenha.textContent = tamanhoSenha
+    }
+    
+        width: 25%;
+        background-color: #E71B32; 
+    }
+    .media{
+        background-color: #FAF408;
+        width: 50%;
+    }
+    .forte{
+        background-color: #00FF85;
+        width: 100%;
+    }
+    document.querySelector('.parametro-senha__texto');
+    const numeroSenha = document.querySelector('.parametro-senha__texto');
+    const numeroSenha = document.querySelector('.parametro-senha__texto');
+    numeroSenha.textContent = 5;
+    const botoes = document.querySelector('.');
+    const botoes = document.querySelector('.parametro-senha__botao');
+    const botoes = document.querySelector('.parametro-senha__botao');
+
+    console.log(botoes);
+    const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+console.log(botoes);
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+console.log(botoes);
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+console.log(botoes);
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+console.log(botoes);
+
+function diminuiTamanho(){ 
+
+}
+let tamanhoSenha = 12;
+senha.textContent = tamanhoSenha;
+tamanhoSenha = tamanhoSenha - 1;
+const numeroSenha = document.querySelector('.parametro-senha__texto');
+let tamanhoSenha = 12;
+numeroSenha.textContent = tamanhoSenha;
+
+const botoes = document.querySelectorAll('.parametro-senha__botao');
+
+botoes[0].onclick = diminuiTamanho;
+
+function diminuiTamanho(){ 
+    tamanhoSenha = tamanhoSenha - 1;
+}function diminuiTamanho(){ 
+    tamanhoSenha = tamanhoSenha - 1;
+    numeroSenha.textContent = tamanhoSenha
+}
+
+
+console.log(botoes);
+function diminuiTamanho(){ 
+    tamanhoSenha = tamanhoSenha - 1;
+    numeroSenha.textContent = tamanhoSenha
+}
